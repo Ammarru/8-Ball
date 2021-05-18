@@ -1,0 +1,15 @@
+D:\Projects\8-Ball\8-Ball\bin\Debug\netcoreapp3.1\8-Ball.exe
+D:\Projects\8-Ball\8-Ball\bin\Debug\netcoreapp3.1\8-Ball.deps.json
+D:\Projects\8-Ball\8-Ball\bin\Debug\netcoreapp3.1\8-Ball.runtimeconfig.json
+D:\Projects\8-Ball\8-Ball\bin\Debug\netcoreapp3.1\8-Ball.runtimeconfig.dev.json
+D:\Projects\8-Ball\8-Ball\bin\Debug\netcoreapp3.1\8-Ball.dll
+D:\Projects\8-Ball\8-Ball\bin\Debug\netcoreapp3.1\8-Ball.pdb
+D:\Projects\8-Ball\8-Ball\obj\Debug\netcoreapp3.1\8-Ball.csprojAssemblyReference.cache
+D:\Projects\8-Ball\8-Ball\obj\Debug\netcoreapp3.1\_8_Ball.Form1.resources
+D:\Projects\8-Ball\8-Ball\obj\Debug\netcoreapp3.1\8-Ball.csproj.GenerateResource.cache
+D:\Projects\8-Ball\8-Ball\obj\Debug\netcoreapp3.1\8-Ball.AssemblyInfoInputs.cache
+D:\Projects\8-Ball\8-Ball\obj\Debug\netcoreapp3.1\8-Ball.AssemblyInfo.cs
+D:\Projects\8-Ball\8-Ball\obj\Debug\netcoreapp3.1\8-Ball.csproj.CoreCompileInputs.cache
+D:\Projects\8-Ball\8-Ball\obj\Debug\netcoreapp3.1\8-Ball.dll
+D:\Projects\8-Ball\8-Ball\obj\Debug\netcoreapp3.1\8-Ball.pdb
+D:\Projects\8-Ball\8-Ball\obj\Debug\netcoreapp3.1\8-Ball.genruntimeconfig.cache
